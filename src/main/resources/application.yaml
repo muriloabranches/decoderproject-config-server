@@ -4,6 +4,14 @@ server:
 spring:
   application:
     name: ead-config-server
+  cloud:
+    config:
+      server:
+        git:
+          uri: https://github.com/MuriloAbranches/decoderproject-configurations
+          default-label: main
+          username: MuriloAbranches
+          password: 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
 
 eureka:
   client:
