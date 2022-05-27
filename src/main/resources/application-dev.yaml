@@ -9,7 +9,7 @@ spring:
           uri: https://github.com/MuriloAbranches/decoderproject-configurations
           default-label: main
           username: MuriloAbranches
-          password: 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
+          password: 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
 
 ead:
   configServer:
