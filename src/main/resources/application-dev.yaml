@@ -8,8 +8,8 @@ spring:
         git:
           uri: https://github.com/MuriloAbranches/decoderproject-configurations
           default-label: main
-          username: MuriloAbranches
-          password: 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
+          username: 'username'
+          password: 'password'
 
 ead:
   configServer:
